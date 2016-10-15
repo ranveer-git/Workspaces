@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name123">Hello Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world123">Hello world123!</string>
+    <string name="click_me">Click Me!</string>
+    <string name="clink_me_2">Click Me!!</string>
+</resources>
